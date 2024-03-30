@@ -31,8 +31,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of the application...
-/Users/wcsosro/Documents/gifs/2024-03-29 23.13.58.gif
 
+![2024-03-29 23 13 58](https://github.com/sosropartono/Trivia/assets/66928465/8594dba8-d2fd-4e95-8473-551753feafa8)
 
 
 ## Notes
